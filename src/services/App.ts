@@ -1,5 +1,5 @@
 import express from "express";
-import cors from "../middleware/cors";
+import cors from "../middlewares/cors";
 
 class App {
   public app: express.Application;
